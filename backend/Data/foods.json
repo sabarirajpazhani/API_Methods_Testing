@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "food_name":"idly",
+        "cost":"Rs.10",
+        "description":"Very nice idely"
+    },
+    {
+        "id":"2",
+        "food_name":"Dosa",
+        "cost":"Rs.20",
+        "description":"Very tasty dosa"
+    },
+    {
+        "id":"3",
+        "food_name":"Pori",
+        "cost":"Rs.30",
+        "description":"Very Good Pori"
+    }
+]
