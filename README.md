@@ -30,7 +30,8 @@ For testing APIs, you can use the following tools:
   
 - **Insomnia REST**: A powerful and easy-to-use REST API client that supports testing RESTful services, with features like environment variables, code generation, and more.
 
-  ![insomnia-logo-A35E09EB19-seeklogo com](https://github.com/user-attachments/assets/9f0c1963-ed50-4c03-8d55-6632d9a9af74)
-
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/9f0c1963-ed50-4c03-8d55-6632d9a9af74" alt="insomnia-logo" width="200"/>
+</div>
 
 Both tools provide a user-friendly interface for sending requests to your API endpoints and analyzing the responses.
