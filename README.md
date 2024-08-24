@@ -36,4 +36,9 @@ For testing APIs, you can use the following tools:
   <img src="https://github.com/user-attachments/assets/9f0c1963-ed50-4c03-8d55-6632d9a9af74" alt="insomnia-logo" width="200"/>
 </div>
 
+
+### Screenshot 
+![image](https://github.com/user-attachments/assets/62497d30-3ed5-4cda-959f-4ec392dd3837)
+
+
 Both tools provide a user-friendly interface for sending requests to your API endpoints and analyzing the responses.
