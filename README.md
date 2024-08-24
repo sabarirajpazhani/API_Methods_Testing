@@ -24,6 +24,13 @@ Each method is designed to perform a specific action, and understanding their us
 For testing APIs, you can use the following tools:
 
 - **Thunder Client**: A lightweight REST client extension for VS Code that allows you to test APIs quickly and easily within the editor.
+
+  ![dUmjh08W](https://github.com/user-attachments/assets/a4ae7be2-6284-4898-83ac-313dc85ee238)
+
+  
 - **Insomnia REST**: A powerful and easy-to-use REST API client that supports testing RESTful services, with features like environment variables, code generation, and more.
+
+  ![insomnia-logo-A35E09EB19-seeklogo com](https://github.com/user-attachments/assets/9f0c1963-ed50-4c03-8d55-6632d9a9af74)
+
 
 Both tools provide a user-friendly interface for sending requests to your API endpoints and analyzing the responses.
