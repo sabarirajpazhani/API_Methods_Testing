@@ -4,7 +4,6 @@ API Testing is a type of software testing that focuses on verifying the function
 
 ![tjvz2-5a1wi](https://github.com/user-attachments/assets/cd47fea9-65f4-436f-b129-07107d1f0683)
 
-
 ### API Methods
 
 APIs typically use the following methods to perform various operations:
@@ -29,16 +28,14 @@ For testing APIs, you can use the following tools:
   <img src="https://github.com/user-attachments/assets/a4ae7be2-6284-4898-83ac-313dc85ee238" alt="insomnia-logo" width="200"/>
 </div>
 
-  
 - **Insomnia REST**: A powerful and easy-to-use REST API client that supports testing RESTful services, with features like environment variables, code generation, and more.
 
  <div align="center">
   <img src="https://github.com/user-attachments/assets/9f0c1963-ed50-4c03-8d55-6632d9a9af74" alt="insomnia-logo" width="200"/>
 </div>
 
+### Screenshot
 
-### Screenshot 
 ![image](https://github.com/user-attachments/assets/62497d30-3ed5-4cda-959f-4ec392dd3837)
-
 
 Both tools provide a user-friendly interface for sending requests to your API endpoints and analyzing the responses.
